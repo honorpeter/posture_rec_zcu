@@ -1,0 +1,856 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:58 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_zynq_ultra_ps_e_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_zynq_ultra_ps_e_0_2 from xilinx.com:ip:zynq_ultra_ps_e:3.1 to xilinx.com:ip:zynq_ultra_ps_e:3.2
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:58 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_ps8_0_axi_periph_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_ps8_0_axi_periph_1 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 15) to (Rev. 17)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:58 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_interconnect_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_axi_interconnect_0_1 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 15) to (Rev. 17)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:58 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_gpio_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of system_axi_gpio_0_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 16) to (Rev. 18)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:34 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'summation_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of summation_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:10 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'sub_unit'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of sub_unit (xilinx.com:ip:c_addsub:12.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:10 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'stayInstep_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of stayInstep_fifo (xilinx.com:ip:fifo_generator:13.2) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:09 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'post_image_ram'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of post_image_ram (xilinx.com:ip:blk_mem_gen:8.4) to (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:46:08 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'load_image_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of load_image_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:45:44 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'kernel_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of kernel_fifo (xilinx.com:ip:fifo_generator:13.2) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:45:43 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'kernel_buffer_control_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of kernel_buffer_control_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:45:19 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'interrupt_ila1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of interrupt_ila1 (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:44:55 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'interrupr_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of interrupr_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:44:32 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'information_read_write_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of information_read_write_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:44:08 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_write_buffer_control_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of image_write_buffer_control_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:44 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_read_buffer_control_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of image_read_buffer_control_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:22 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_ram_rd_addr_add'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of image_ram_rd_addr_add (xilinx.com:ip:c_addsub:12.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:21 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_ram'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of image_ram (xilinx.com:ip:blk_mem_gen:8.4) to (Rev. 1)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:18 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_prerd_toaxi_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of image_prerd_toaxi_fifo (xilinx.com:ip:fifo_generator:13.2) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:17 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'head_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of head_fifo (xilinx.com:ip:fifo_generator:13.2) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:17 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'floating_point_compare'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of floating_point_compare (xilinx.com:ip:floating_point:7.1) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:16 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'float_multiply'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of float_multiply (xilinx.com:ip:floating_point:7.1) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:16 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'float_add_IP_use_DSP_multilatency'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of float_add_IP_use_DSP_multilatency (xilinx.com:ip:floating_point:7.1) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:15 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'fifo_shift_window'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of fifo_shift_window (xilinx.com:ip:fifo_generator:13.2) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:43:15 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'deal_PostImage_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of deal_PostImage_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:42:51 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'conv_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of conv_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:42:28 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'axiInter_ila'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of axiInter_ila (xilinx.com:ip:ila:6.2) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:42:04 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'add_zero_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of add_zero_fifo (xilinx.com:ip:fifo_generator:13.2) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.1 (win64) Build 2188600 Wed Apr  4 18:40:38 MDT 2018
+| Date         : Wed Apr 25 15:42:04 2018
+| Host         : PK8W2TV3U66VGZI running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PLL'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of PLL from xilinx.com:ip:clk_wiz:5.4 (Rev. 2) to xilinx.com:ip:clk_wiz:6.0
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:38 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'sub_unit'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of sub_unit (xilinx.com:ip:c_addsub:12.0 (Rev. 11)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:37 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'post_image_ram'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of post_image_ram (xilinx.com:ip:blk_mem_gen:8.4) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:36 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'kernel_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of kernel_fifo (xilinx.com:ip:fifo_generator:13.2) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:36 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_ram_rd_addr_add'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of image_ram_rd_addr_add (xilinx.com:ip:c_addsub:12.0 (Rev. 11)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:36 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_ram'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of image_ram (xilinx.com:ip:blk_mem_gen:8.4) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:33 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'image_prerd_toaxi_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of image_prerd_toaxi_fifo (xilinx.com:ip:fifo_generator:13.2) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:32 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'head_for_interate_dram'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of head_for_interate_dram (xilinx.com:ip:dist_mem_gen:8.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:31 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'head_fifo'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of head_fifo (xilinx.com:ip:fifo_generator:13.2) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:30 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'floating_point_compare'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of floating_point_compare (xilinx.com:ip:floating_point:7.1 (Rev. 5)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:30 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'float_multiply'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of float_multiply (xilinx.com:ip:floating_point:7.1 (Rev. 5)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:29 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'float_add_IP_use_DSP_multilatency'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of float_add_IP_use_DSP_multilatency (xilinx.com:ip:floating_point:7.1 (Rev. 5)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3 (win64) Build 2018833 Wed Oct  4 19:58:22 MDT 2017
+| Date         : Mon Mar 12 11:57:29 2018
+| Host         : DESKTOP-S57QI69 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xczu9eg-ffvb1156-2-e
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PLL'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of PLL (xilinx.com:ip:clk_wiz:5.4 (Rev. 2)) to Vivado generation flows.
+

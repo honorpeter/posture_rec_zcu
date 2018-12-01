@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Administrator/Desktop/posture_rec_zcu_20180514/posture_rec_zcu/posture_rec_zcu.hw/hw_1/wave/hw_ila_data_16/hw_ila_data_16.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1913064fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="234"></NameColumnWidth>
+      <ValueColumnWidth column_width="143"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="pl_top_m1/interrupt_m1/algorithm_finish_1" type="logic">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/algorithm_finish_1</obj_property>
+      <obj_property name="ObjectShortName">algorithm_finish_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/image_one_return_finish" type="logic">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/image_one_return_finish</obj_property>
+      <obj_property name="ObjectShortName">image_one_return_finish</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/one_layer_finish" type="logic">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/one_layer_finish</obj_property>
+      <obj_property name="ObjectShortName">one_layer_finish</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/conv_layer_change_state" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/conv_layer_change_state[31:0]</obj_property>
+      <obj_property name="ObjectShortName">conv_layer_change_state[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER1_RETURN_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER1_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER1_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER2_RETURN_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER2_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER2_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER3_RETURN_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER3_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER3_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER4_RETURN_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER4_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER4_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER5_RETURN_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER5_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER5_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER6_RETURN_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER6_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER6_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER7_RETURN_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER7_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER7_RETURN_NUM[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/layer_convolution_num" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/layer_convolution_num[15:0]</obj_property>
+      <obj_property name="ObjectShortName">layer_convolution_num[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/LAYER_NUM" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/LAYER_NUM[7:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER_NUM[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/conv_cnt" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/conv_cnt[15:0]</obj_property>
+      <obj_property name="ObjectShortName">conv_cnt[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="pl_top_m1/interrupt_m1/stop_layer_num" type="array">
+      <obj_property name="ElementShortName">pl_top_m1/interrupt_m1/stop_layer_num[7:0]</obj_property>
+      <obj_property name="ObjectShortName">stop_layer_num[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

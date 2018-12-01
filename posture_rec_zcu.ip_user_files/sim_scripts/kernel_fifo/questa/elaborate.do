@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L xilinx_vip -L xil_defaultlib -L xpm -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.kernel_fifo xil_defaultlib.glbl -o kernel_fifo_opt

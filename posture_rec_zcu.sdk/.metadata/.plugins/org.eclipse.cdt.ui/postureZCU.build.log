@@ -1,0 +1,14 @@
+14:08:06 **** Incremental Build of configuration Debug for project postureZCU ****
+make all 
+'Building file: ../src/data_store.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/data_store.o" -I../../postureZCU_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/data_store.d" -MT"src/data_store.o" -o "src/data_store.o" "../src/data_store.c"
+In file included from ../src/data_store.c:11:0:
+../src/data_store.h:11:23: fatal error: xil_types.h: No such file or directory
+ #include "xil_types.h"
+                       ^
+compilation terminated.
+make: *** [src/data_store.o] ´íÎó 1
+
+14:08:07 Build Finished (took 1s.144ms)
+

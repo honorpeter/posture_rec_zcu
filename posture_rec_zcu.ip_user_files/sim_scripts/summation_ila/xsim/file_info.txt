@@ -1,0 +1,2 @@
+summation_ila.v,verilog,xil_defaultlib,../../../ip/summation_ila/sim/summation_ila.v,incdir="../../../ip/summation_ila/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v

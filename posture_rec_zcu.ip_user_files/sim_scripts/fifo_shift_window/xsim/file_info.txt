@@ -1,0 +1,2 @@
+fifo_shift_window.v,verilog,xil_defaultlib,../../../ip/fifo_shift_window/sim/fifo_shift_window.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

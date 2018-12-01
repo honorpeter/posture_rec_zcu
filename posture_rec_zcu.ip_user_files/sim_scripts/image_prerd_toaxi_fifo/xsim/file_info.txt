@@ -1,0 +1,2 @@
+image_prerd_toaxi_fifo.v,verilog,xil_defaultlib,../../../ip/image_prerd_toaxi_fifo/sim/image_prerd_toaxi_fifo.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

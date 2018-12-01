@@ -1,0 +1,2 @@
+interrupt_ila1.v,verilog,xil_defaultlib,../../../ip/interrupt_ila1/sim/interrupt_ila1.v,incdir="../../../ip/interrupt_ila1/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v
